@@ -242,7 +242,8 @@ body {
    margin-right: 70px;
    margin-left: 400px;
    padding: 13px 30px;
-}
+} 
+
 
 
 
@@ -277,6 +278,12 @@ body {
    flex: none;
    width: 535px;
 }
+
+.second-section-title-link {
+      text-decoration: none;
+      color: #000;
+   }
+
 .second-section-text {
    width: 535px;
    font-weight: normal;
